@@ -147,7 +147,7 @@
         ]
     },
     {
-        "name": "celeste's Education",
+        "name": "celeste's Homeworld",
         "map_locations": [
             {
                 "map": "celeste",
@@ -158,7 +158,7 @@
         ],
         "sections": [
             {
-                "name": "celeste's Education",
+                "name": "celeste's Homeworld",
                 "access_rules": [
                     "Unlock Girl(celeste)"
                 ],

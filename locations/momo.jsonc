@@ -147,7 +147,7 @@
         ]
     },
     {
-        "name": "momo's Education",
+        "name": "momo's Homeworld",
         "map_locations": [
             {
                 "map": "momo",
@@ -158,7 +158,7 @@
         ],
         "sections": [
             {
-                "name": "momo's Education",
+                "name": "momo's Homeworld",
                 "access_rules": [
                     "Unlock Girl(momo)"
                 ],

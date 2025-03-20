@@ -147,7 +147,7 @@
         ]
     },
     {
-        "name": "kyu's Education",
+        "name": "kyu's Homeworld",
         "map_locations": [
             {
                 "map": "kyu",
@@ -158,7 +158,7 @@
         ],
         "sections": [
             {
-                "name": "kyu's Education",
+                "name": "kyu's Homeworld",
                 "access_rules": [
                     "Unlock Girl(kyu)"
                 ],

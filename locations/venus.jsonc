@@ -147,7 +147,7 @@
         ]
     },
     {
-        "name": "venus's Education",
+        "name": "venus's Homeworld",
         "map_locations": [
             {
                 "map": "venus",
@@ -158,7 +158,7 @@
         ],
         "sections": [
             {
-                "name": "venus's Education",
+                "name": "venus's Homeworld",
                 "access_rules": [
                     "Unlock Girl(venus)"
                 ],
